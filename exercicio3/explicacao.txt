@@ -1,0 +1,1 @@
+A chave privada e usada para criptografia e deve ser mantida em segredo. Ela eh essencial para autenticacao e criacao de certificados digitais.
