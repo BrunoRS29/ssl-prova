@@ -1,0 +1,1 @@
+O erro ocorre porque o certificado utilizado eh autoassinado e nao foi emtido por uma autoridade confiavel, fazendo com que o navegador nao reconheca a conexao como segura.
