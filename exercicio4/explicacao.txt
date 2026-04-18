@@ -1,0 +1,1 @@
+O CSR eh uma requisicao de certificado que contem informacoes do usuario e sua chave publica, sendo utilizada para solicitar certificados digitais.
