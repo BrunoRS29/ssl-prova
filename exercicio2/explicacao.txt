@@ -1,0 +1,1 @@
+O diretório foi criado para armazenar certificados digitais no sistema, facilitando a organização e o gerenciamento de arquivos de segurança.
