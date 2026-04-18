@@ -1,0 +1,1 @@
+O navegador valida certificados comparando com autoridades confiaveis. Como o certificado eh autoassinado, ele nao eh reconhecido como seguro.
